@@ -1,0 +1,7 @@
+#wallet_button {
+  /* display the button in the center of the page */
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
